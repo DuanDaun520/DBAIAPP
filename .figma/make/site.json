@@ -1,0 +1,10 @@
+{
+  "description": "This AI-powered app serves as a strategic assistant for company leaders, providing curated insights and identifying key business opportunities and risks.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
